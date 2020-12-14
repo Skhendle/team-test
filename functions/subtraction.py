@@ -1,6 +1,7 @@
 """
 This file is for subtraction
-Input: a, b are value which the function must add
+Input: a & b
+Output: a - b
 """
-class AddNumbers():
+class SubtractNumbers():
   pass
