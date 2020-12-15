@@ -1,3 +1,6 @@
+class AddNumber():
+  pass
+
 """
 This will be the file for addition
 Input: a & b
@@ -11,8 +14,9 @@ class AddNumber():
     self.firstNumber = firstNumber
     self.secondNumber = secondNumber
     
-  def addition(self):
+  def answer(self):
         
     result = self.firstNumber + self.secondNumber 
             
   return result 
+
