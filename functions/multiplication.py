@@ -1,6 +1,8 @@
 """
 This class if for the multtiplication of two numbers
 """
+
+
 class MultiplyNumbers():
   def __init__(self, a, b):
     self.a = int(a)
