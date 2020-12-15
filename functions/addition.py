@@ -5,4 +5,14 @@ Output: a + b
 """
 
 class AddNumber():
-  pass
+     
+  def __init__(self, firstNumber, secondNumber):
+                
+    self.firstNumber = firstNumber
+    self.secondNumber = secondNumber
+    
+  def addition(self):
+        
+    result = self.firstNumber + self.secondNumber 
+            
+  return result 
